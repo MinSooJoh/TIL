@@ -12,6 +12,8 @@
     - commit: stage의 blob에 대해 metadata 작성 및 snatshot
     - push: commit을 local repo > remote repo
 - start project with git clone
+- branch
+
 
 ## 내일까지  할 일
 
