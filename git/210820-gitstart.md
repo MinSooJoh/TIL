@@ -13,6 +13,10 @@
     - push: commit을 local repo > remote repo
 - start project with git clone
 - branch
+    - create branch
+    - switch branch
+    - Branch merge
+    - merge conflict resolve
 
 
 ## 내일까지  할 일
